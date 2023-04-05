@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a72f2cac-1d8b-4efc-83ba-f92ba8749a05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GPL_license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LGPL_license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moira.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEPL_license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WMM2005.COF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WMM2010.COF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cities.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/fixstars.cat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_00.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_06.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_12.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_18.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_24.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_30.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_36.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_42.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/seas_48.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_00.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_06.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_12.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_18.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_24.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_30.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_36.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_42.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/semo_48.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_00.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_06.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_12.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_18.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_24.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_30.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_36.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_42.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ephe/sepl_48.se1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/aspects.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/backward.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/blank.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/button.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/capture.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/chart.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/copy.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/cut.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/delete.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/expand.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/forward.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/help.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/horiz.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/mode.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/next.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/open.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/paste.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/pin_down.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/pin_up.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/prev.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/print.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/redo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/save.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/saveas.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/shrink.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/undo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commands.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jface.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moira.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moira_proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moira_s.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moira_t.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_s.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_t.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshscreenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cities.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moira_s.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moira_t.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/awtext/CalendarSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/awtext/EditCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/awtext/LocationSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/BaseCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/BaseIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/BaseLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/BaseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/BaseTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/ChartData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/ChartMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/DataEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/DiagramTip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/DrawAWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Eclipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/EvalRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Geomag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/HTMLData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/ImageControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Rule.yacc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/RuleEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/RuleParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/SearchRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/base/Transit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/AppIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/AppMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/AspectDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/AsteroidDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/BackupDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/CanvasUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/ChartTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/ColorFieldDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/CommandDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/ConfirmSaveDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/DataSetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/DataTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/DrawSWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/EditDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/EightCharDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/FolderToolBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/FontAlignDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/FooterDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/HouseDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/ImageControlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/LifeSelfDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/LocationDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/LunarDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/MenuFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/ModeDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/Moira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/NameDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/PickDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/PlanetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/RelationshipDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/SaveControlDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/SearchDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/SiderealDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/StarSignDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/StyleDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/SystemDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/TabManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/TableTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/TimeDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/TransitDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/AppletChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/AppletData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/AppletDataWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/AppletIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/AppletMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/HoverTipAWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/moiraApplet/MoiraApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/AyaInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/DblObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Epsilon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Extensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/FileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/FilePtr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/GenConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Houses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/IntObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Nut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/PlanData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Plantbl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SavePositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SweConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SweDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SweHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Swecl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/Swemmoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabEar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabJup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabMar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabMer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabNep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabPlu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabSat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabUra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwemptabVen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwephData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwephMosh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwissData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwissEph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwissLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/SwissephException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swisseph/TopoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/CButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/CalendarSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/ColorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/ExtendStyledText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/FontMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/HoverTipSWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/ImageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/LocationSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/athomeprojects/swtext/RepeatingButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample_s.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample_t.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O0BxXVLw3prkW6SYaOtVWA60Oj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.athomeprojects.moira.Moira" />
+      <module name="moira_proj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a72f2cac-1d8b-4efc-83ba-f92ba8749a05" name="Changes" comment="" />
+      <created>1680687886640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680687886640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/athomeprojects/base/ChartData.java</url>
+          <line>4393</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
