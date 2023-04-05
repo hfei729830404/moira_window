@@ -9,4 +9,4 @@
 
 
 # 运行调试截图
-![Alt](https://raw.githubusercontent.com/xdhuangsidi/moira_window/master/screenshot.png)
+![Alt](https://raw.githubusercontent.com/xdhuangsidi/moira_window/master/screenshscreenshot.png)
